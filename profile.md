@@ -10,4 +10,4 @@ I'm a CS student @ UC Davis learning and building systems in agritech, full stac
 
 ## Tech Stack
 
-`TypeScript` `React` `Python` `Javascript` `PostgreSQL` `C++`
+`TypeScript` `React` `Python` `Javascript` `PostgreSQL` `C++`‹
